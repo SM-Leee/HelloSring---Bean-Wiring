@@ -101,6 +101,6 @@
 					<password>1</password>
 				</configuration>
 			</plugin>
-		</plugins>
+		</plugins> 
 	</build>
 </project>
